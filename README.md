@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArghavanGeorge
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data Analyses
 - 🌱 I’m currently learning about work on codes
 - 💞️ I’m looking to collaborate on my codes
 - 📫 How to reach me by my mail
