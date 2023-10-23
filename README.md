@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyses
 - 🌱 I’m currently learning about work on codes
 - 💞️ I’m looking to collaborate on my codes
-- 📫 How to reach me by my mails
+- 📫 How to reach me by my mail
 
 <!---
 ArghavanGeorge/ArghavanGeorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
