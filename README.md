@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArghavanGeorge
 - 👀 I’m interested in Data Analyses
 - 🌱 I’m currently learning about work on code
-- 💞️ I’m looking to collaborate on my code      
+- 💞️ I’m looking to collaborate on my code       
 - 📫 How to reach me by my mail                                                                                                                                                         
 
 <!---
